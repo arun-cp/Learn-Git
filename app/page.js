@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Git hub learning <code>app/page.js</code>.
+            Git hub learning Main branch <code>app/page.js</code>.
           </li>
           <li>hello hi hi.</li>
         </ol>
