@@ -15,9 +15,9 @@ export default function Home() {
         />
         <ol>
           <li>
-            Git hub learning Main branch <code>app/page.js</code>.
+            Git hub learning Branched <code>app/page.js</code>.
           </li>
-          <li>Main branch learning1.</li>
+          <li>Learn branch edition2</li>
         </ol>
 
         <div className={styles.ctas}>
