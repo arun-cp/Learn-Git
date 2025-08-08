@@ -17,7 +17,7 @@ export default function Home() {
           <li>
             Git hub learning <code>app/page.js</code>.
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>.</li>
         </ol>
 
         <div className={styles.ctas}>
